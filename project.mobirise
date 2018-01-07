@@ -2119,7 +2119,7 @@
     },
     "project.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "Youth OSM Community",
         "title": "Project",
         "order": 4
       },
@@ -3724,7 +3724,7 @@
     },
     "page6.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "Youth OSM Community",
         "title": "Feedback",
         "order": 1
       },
